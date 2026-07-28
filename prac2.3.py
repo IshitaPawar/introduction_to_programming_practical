@@ -1,0 +1,9 @@
+a=float(input("enter first number:"))
+b=float(input("enter second number:"))
+c=float(input("enter third number:"))
+sum_val=a+b+c
+avg=sum_val/3
+expression=(a+b)*c/2
+print("sum=",sum_val)
+print("average=",avg)
+print("expression=",expression)
